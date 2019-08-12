@@ -1,4 +1,4 @@
 # EZGripper-SAKE
-Repo with information on SAKE robotics EZ Gripper.
+Repo com info da Garra: SAKE robotics EZ Gripper.
 
-Check the Wiki for more details.
+Chequem a WIKI!
